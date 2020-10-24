@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(#fc05b2 0%, #05fc95 50%, #6805fc 100%);
+    text-align: center;
+    color: darksalmon;
+    scroll-behavior: smooth;
+    margin: 15px;
+}
